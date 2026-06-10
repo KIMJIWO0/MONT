@@ -1,0 +1,7 @@
+{
+  "name": "MONT",
+  "description": "AI-powered video planning platform designed to turn video ideas into structured, shootable video plans.",
+  "majorCapabilities": [
+    "SERVER_SIDE_OPENAI_IMAGE_API"
+  ]
+}
